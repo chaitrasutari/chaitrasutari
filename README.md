@@ -2,8 +2,8 @@
 
 
 **Machine Learning Engineer | Data Science Enthusiast | Software Engineer**  
-📍 Fort Wayne, IN | 💌 [sutarichaitra12@gmail.com](mailto:sutarichaitra12@gmail.com) | 💌 [sutac01@pfw.edu](mailto:sutac01@pfw.edu)  
-🌐 [Portfolio](https://chaitrasutari.github.io/) | 🔗 [LinkedIn](https://linkedin.com/in/chaitrasutari) | 🛠️ [GitHub](https://github.com/chaitrasutari)
+📍 United States | 💌 [sutarichaitra12@gmail.com](mailto:sutarichaitra12@gmail.com) | 💌 [sutac01@pfw.edu](mailto:sutac01@pfw.edu)  
+🔗 [LinkedIn](https://linkedin.com/in/chaitrasutari) | 🛠️ [GitHub](https://github.com/chaitrasutari)
 
 ---
 

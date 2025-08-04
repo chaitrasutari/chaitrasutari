@@ -29,18 +29,36 @@
   Mentored students in core machine learning concepts, helping them develop mini-projects in Python using libraries like **scikit-learn** and **TensorFlow**. Conducted workshops and guided students through paper publishing processes and internship applications.
 
 
-### 🚀 Projects & Publications
+### 🚀 Projects
 
-- **Raspberry Pi-based Embedded Vision Module**  
-  Aids visually impaired by detecting objects and obstacles in real time using YOLOv3 and RVNet.
+- **MediCareNet – Predictive Healthcare Insights using ML & MLOps**  
+  Built ML pipelines to predict hospital readmissions from EHR datasets using XGBoost (F1 > 75%). Integrated MLflow and DVC for versioning, with Dockerized Flask APIs and GitHub Actions for CI/CD deployment on AWS EC2.
 
-- **Text Summarization using NLP**  
-  Employed extractive summarization to generate concise abstracts from lengthy text sources.
+- **VisionIQ – Transformer-based Real-Time Object Detection**  
+  Designed a real-time object detection system using HuggingFace Transformers and OpenCV. Achieved 90%+ accuracy for live video feeds. Integrated FastAPI REST and WebSocket APIs with a React.js dashboard for spatial analytics. Deployed inference via AWS Lambda for serverless operation.
 
-- **Enhanced Demand Forecasting System** (published in IEEE)  
-  Utilized XGBoost and Random Forest ensemble methods to forecast food raw materials and optimize resource allocation.
+- **SmartDoc AI – Intelligent Document Summarization & Q&A System**  
+  Built an end-to-end NLP pipeline for document ingestion and summarization using AWS Textract and fine-tuned BERT on SQuAD2.0. Integrated vector search (Pinecone, MongoDB) and FastAPI-based APIs to deliver semantic search and question answering over scanned PDFs.
+
+- **Ask My Resume – LLM-Based Resume Q&A Agent**  
+  Created a Retrieval-Augmented Generation (RAG) pipeline using LangChain, HuggingFace, and FAISS to enable semantic Q&A over resumes. Deployed on Streamlit Cloud with custom PDF parsing and memory-backed QA chains.
+
+- **Dual‑Stage Toxic Comment Detection System (Final Project – NLP Course)**  
+  Developed a two-stage NLP pipeline for classifying toxic online comments. Stage 1 uses a lightweight classifier (e.g., logistic regression) to filter confidently non-toxic text, while Stage 2 applies a deep learning model(DNNs) to handle ambiguous cases. Achieved improved precision-recall balance with reduced inference cost.
+
+- **Raspberry Pi-based Embedded Vision Module** *(Legacy)*  
+  A real-time assistive module for visually impaired individuals using YOLOv3 and RVNet to detect objects and obstacles via embedded vision.
+
+- **Text Summarization using NLP** *(Legacy)*  
+  Developed an extractive summarization tool for generating concise abstracts from large textual documents.
 
 For more details, check out my [public repositories](https://github.com/chaitrasutari?tab=repositories).
+
+### 🚀 Publications
+
+- **Enhanced Demand Forecasting System for Food & Raw Materials**  
+  Published in IEEE: Developed a stacking ensemble model (XGBoost + Random Forest) to forecast raw material needs, customer inflow, and dish-level sales. Resulted in significant optimization of supply planning.  
+  *DOI: [10.1109/AIMV53313.2021.9671005](https://doi.org/10.1109/AIMV53313.2021.9671005)*
 
 ---
 

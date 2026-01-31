@@ -31,6 +31,14 @@
 
 ### 🚀 Projects
 
+- **Influenza Forecasting – Time-Series Analysis (Machine Learning Coursework)**
+  Engineered a time-series model to forecast influenza outbreaks by integrating historical flu surveillance data with meteorological
+features like temperature and humidity. Built and evaluated an LSTM neural network against traditional baseline models,
+utilizing rolling-window validation to capture seasonal trends and environmental predictors
+
+- **Dual‑Stage Toxic Comment Detection System (Natural Language Processing Coursework)**  
+  Developed a two-stage NLP pipeline for classifying toxic online comments. Stage 1 uses a lightweight classifier (e.g., logistic regression) to filter confidently non-toxic text, while Stage 2 applies a deep learning model(DNNs) to handle ambiguous cases. Achieved improved precision-recall balance with reduced inference cost.
+
 - **MediCareNet – Predictive Healthcare Insights using ML & MLOps**  
   Built ML pipelines to predict hospital readmissions from EHR datasets using XGBoost (F1 > 75%). Integrated MLflow and DVC for versioning, with Dockerized Flask APIs and GitHub Actions for CI/CD deployment on AWS EC2.
 
@@ -42,9 +50,6 @@
 
 - **Ask My Resume – LLM-Based Resume Q&A Agent**  
   Created a Retrieval-Augmented Generation (RAG) pipeline using LangChain, HuggingFace, and FAISS to enable semantic Q&A over resumes. Deployed on Streamlit Cloud with custom PDF parsing and memory-backed QA chains.
-
-- **Dual‑Stage Toxic Comment Detection System (Final Project – NLP Course)**  
-  Developed a two-stage NLP pipeline for classifying toxic online comments. Stage 1 uses a lightweight classifier (e.g., logistic regression) to filter confidently non-toxic text, while Stage 2 applies a deep learning model(DNNs) to handle ambiguous cases. Achieved improved precision-recall balance with reduced inference cost.
 
 - **Raspberry Pi-based Embedded Vision Module** *(Legacy)*  
   A real-time assistive module for visually impaired individuals using YOLOv3 and RVNet to detect objects and obstacles via embedded vision.

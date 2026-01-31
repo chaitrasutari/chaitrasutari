@@ -2,7 +2,7 @@
 
 
 **Machine Learning Engineer | Data Science Enthusiast | Software Engineer**  
-📍 United States | 💌 [sutarichaitra12@gmail.com](mailto:sutarichaitra12@gmail.com) | 💌 [sutac01@pfw.edu](mailto:sutac01@pfw.edu)  
+📍 United States | 💌 [chaitrasutari1204@gmail.com](mailto:chaitrasutari1204@gmail.com) | 💌 [sutac01@pfw.edu](mailto:sutac01@pfw.edu)  
 🔗 [LinkedIn](https://linkedin.com/in/chaitrasutari) | 🛠️ [GitHub](https://github.com/chaitrasutari)
 
 ---
@@ -16,25 +16,42 @@
 
 ### My Experiences 💼
 
+- **Graduate Data Science Researcher** @ [The Data Mine, Purdue University](https://datamine.purdue.edu/)  
+  - Developed predictive models and ETL pipelines using Python, R, and SQL to forecast claims and analyze policyholder retention, transforming raw multi-year insurance data into structured assets for analysis.
+  - Managed the full data science lifecycle within an Agile environment, utilizing machine learning libraries to drive data cleaning, exploratory analysis, and visual reporting.
+  - Translated complex analytical findings into strategic recommendations, presenting executive-ready visualizations and business insights to corporate stakeholders and non-technical audiences.
+
 - **Machine Learning Research Consultant** @ [Rivach LLP](https://www.rivach.com)  
-  Designed and developed machine learning (ML) pipelines for recommendation systems and computer vision modules. Worked closely with full-stack developers to deploy models into production and enhance real-time decision-making in digital products. Delivered customized solutions to client-specific use cases, including user behavior-based content personalization and image recognition for inventory monitoring.
+  - Optimized machine learning systems for digital products, focusing on computer vision and recommendation systems, which enhanced accuracy by 25%.
+  - Collaborated with developers to integrate models into web applications, ensuring business-focused reporting and usability.
+  - Supported predictive modeling projects combining product data and user behavior to optimize offerings.
 
 - **Software Development Engineer Intern** @ **Amazon**  
-  Contributed to Amazon Seller Central by building a feature that allows sellers to manage their schedules via calendar integration. Developed serverless applications using AWS services such as **SQS**, **S3**, **SNS**, **SES**, and **Lambda**. Ensured seamless email-to-calendar sync, increased user efficiency, and reduced support tickets by automating key workflows for over 15,000 users.
+  - Developed a feature for Amazon Seller Central using Java and AWS services(SQS, S3, Lambda) supporting over 15,000 users.
+  - Enabled clients to create and update their schedules via email calendars, increasing user engagement by 30% and reducing customer support requests by 20%.
+  - Followed agile practices, which contributed to rapid feature rollout and enhanced system scalability, improving team productivity.
 
 - **Machine Learning Research Intern** @ [Centella Scientific](https://www.centella.co.in)  
-  Focused on ML-based drug discovery, working on virtual screening and ADMET prediction using deep learning. Built and trained classification and regression models to identify promising compounds, and automated the pipeline using the KNIME platform for scalability. Streamlined workflows helped accelerate compound evaluation for research teams.
+  - Developed deep learning models for virtual screening and ADMET prediction to support early-phase drug discovery.
+  - Accelerated drug repurposing workflows by 25% through ML-based pharmacokinetic profiling using KNIME pipelines.
+  - Explored retrosynthesis prediction with ML and cheminformatics tools to identify viable synthesis routes for candidate compounds
+
+- **Teaching Assistant – Fundamentals of Java Programming (OOPs)** @ **Undergraduate Program, GRIET**  
+  - Assisted in teaching core Object-Oriented Programming concepts such as classes, inheritance, polymorphism, and abstraction.
+  - Guided students through laboratory exercises and helped debug and optimize their Java code.
 
 - **Student Mentor** @ **Advanced Academic Center, GRIET**  
-  Mentored students in core machine learning concepts, helping them develop mini-projects in Python using libraries like **scikit-learn** and **TensorFlow**. Conducted workshops and guided students through paper publishing processes and internship applications.
+  - Mentored students in core machine learning concepts, helping them develop projects in Machine learning and Python using libraries like **scikit-learn** and **TensorFlow**. Conducted workshops and guided students in research and internship applications.
+  - Mentored peers in data structures including arrays, linked lists, stacks, queues, and trees.
+  - Taught algorithmic paradigms such as recursion, divide-and-conquer, and dynamic programming through problem-solving sessions.
+  - Encouraged best coding practices and helped students develop confidence in solving algorithmic challenges.
+
 
 
 ### 🚀 Projects
 
-- **Influenza Forecasting – Time-Series Analysis (Machine Learning Coursework)**
-  Engineered a time-series model to forecast influenza outbreaks by integrating historical flu surveillance data with meteorological
-features like temperature and humidity. Built and evaluated an LSTM neural network against traditional baseline models,
-utilizing rolling-window validation to capture seasonal trends and environmental predictors
+- **Influenza Forecasting – Time-Series Analysis (Machine Learning Coursework)**  
+  Engineered a time-series model to forecast influenza outbreaks by integrating historical flu surveillance data with meteorological features like temperature and humidity. Built and evaluated an LSTM neural network against traditional baseline models, utilizing rolling-window validation to capture seasonal trends and environmental predictors.
 
 - **Dual‑Stage Toxic Comment Detection System (Natural Language Processing Coursework)**  
   Developed a two-stage NLP pipeline for classifying toxic online comments. Stage 1 uses a lightweight classifier (e.g., logistic regression) to filter confidently non-toxic text, while Stage 2 applies a deep learning model(DNNs) to handle ambiguous cases. Achieved improved precision-recall balance with reduced inference cost.

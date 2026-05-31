@@ -50,7 +50,7 @@
 
 ### 🚀 Projects
 
-- **Virtual High-Throughput Screening Targeting Aromatase for Breast Cancer**
+- **Virtual High-Throughput Screening Targeting Aromatase for Breast Cancer**  
   Built a virtual high-throughput screening pipeline using RDKit for cheminformatics and an XGBoost model to identify potential aromatase inhibitors. Deployed the interactive screening application via Streamlit and Docker for seamless reproducibility.
 
 - **Influenza Forecasting – Time-Series Analysis (Machine Learning Coursework)**  

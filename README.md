@@ -50,6 +50,9 @@
 
 ### 🚀 Projects
 
+- **Virtual High-Throughput Screening Targeting Aromatase for Breast Cancer**
+  Built a virtual high-throughput screening pipeline using RDKit for cheminformatics and an XGBoost model to identify potential aromatase inhibitors. Deployed the interactive screening application via Streamlit and Docker for seamless reproducibility.
+
 - **Influenza Forecasting – Time-Series Analysis (Machine Learning Coursework)**  
   Engineered a time-series model to forecast influenza outbreaks by integrating historical flu surveillance data with meteorological features like temperature and humidity. Built and evaluated an LSTM neural network against traditional baseline models, utilizing rolling-window validation to capture seasonal trends and environmental predictors.
 
